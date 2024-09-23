@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Unity and Machine Learning
 - 💞️ I’m looking to collaborate on ML projects so reach out if I can help
 - 📫 swarwickdev@gmail.com
+- 📫 www.linkedin.com/in/simon-warwick-91892a1
 
 
 <!---
